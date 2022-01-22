@@ -1,3 +1,8 @@
+3.4.9 (22.01.2022)
+
+- Fix Mod Apk
+- Bug Fix And Other
+
 3.4.8 (19.01.21)
 
 - Nice animations in reactions.
